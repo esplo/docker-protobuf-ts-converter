@@ -10,7 +10,7 @@ Docker container for **continuously** convert *.proto files into .ts/.js files.
 ## Feature
 
 - watch file changes
-- small image size (80.2MB, 2018/02/17)
+- small image size (80.3MB)
 
 ## Usage
 
